@@ -9,6 +9,7 @@ function App() {
     <>
     <Navbar/>
     <itemListContainer greetins="Bienvenidos a la lista de productos"/>
+    <itemCount/>
     </>
 
   );
